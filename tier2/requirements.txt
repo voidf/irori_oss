@@ -1,0 +1,6 @@
+fastapi
+mongoengine
+python-multipart
+uvicorn
+pymongo[srv]
+motor[srv]
