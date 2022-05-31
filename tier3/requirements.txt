@@ -1,0 +1,7 @@
+fastapi
+mongoengine
+python-multipart
+uvicorn
+pymongo[srv]
+motor[srv]
+content_size_limit_asgi
